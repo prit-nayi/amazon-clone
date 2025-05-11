@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This is a work-in-progress project where I am building a clone of the Amazon website. The goal of this project is to practice and enhance my front-end development skills by replicating the design and functionality of a real-world e-commerce platform.
+This is a work-in-progress project where I am building a clone of the Amazon website. The goal of this project is to practice and enhance my Web development skills by replicating the design and functionality of a real-world e-commerce platform.
 
 ## Current Features
 - **Header Section**: Includes a navigation bar with a logo, search bar, sign-in option, and cart.
